@@ -1,0 +1,23 @@
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE files
+*.bak
+.arduino15/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE project files
+.vscode/
+*.code-workspace
+.idea/
+
+# Logs
+*.log
